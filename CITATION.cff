@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use AMRfold, please cite it using the metadata below."
+type: software
+title: AMRfold
+abstract: >
+  Structure-informed antimicrobial resistance protein network server.
+  Pre-computes Foldseek TM-score structural similarity across WHO 2024
+  Bacterial Priority Pathogen List resistance genes, enabling cross-ARG
+  pocket comparison and drug repurposing hypothesis generation.
+authors:
+  - family-names: Pranavathiyani
+    given-names: Gnanasekar
+    affiliation: "Division of Bioinformatics, SASTRA Deemed University"
+repository-code: "https://github.com/pranavathiyani/amrfold"
+license: MIT
+version: "0.1.0"
+date-released: "2026-03-17"
+keywords:
+  - antimicrobial resistance
+  - structural bioinformatics
+  - ESKAPE pathogens
+  - Foldseek
+  - WHO priority pathogens
+  - protein structure
+  - drug repurposing

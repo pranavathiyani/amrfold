@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Data — never commit
+data/
+*.cif
+*.pdb
+*.mmcif
+*.bcif
+*.parquet
+*.h5
+card-data*
+*.tar.bz2
+*.tar.gz
+
+# Foldseek work
+precompute/foldseek_work/
+precompute/*.tsv
+precompute/results*
+
+# Secrets
+.env
+*.key
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
