@@ -135,22 +135,21 @@ This pipeline covers **acquired resistance genes** (CARD protein homolog model +
 If you use AMRfold, please cite:
 
 ```bibtex
-@article{pranavathiyani2026amrfold,
-  title   = {AMRfold: Structure-informed mining of antimicrobial resistance
-             determinants in \textit{Neisseria gonorrhoeae} using proteome-wide
-             FoldSeek search},
-  author  = {Pranavathiyani, Gnanasekar},
-  journal = {Proceedings of BGRS/SB-2026},
-  year    = {2026},
-  note    = {github.com/pranavathiyani/amrfold}
+@misc{pranavathiyani2026amrfold,
+  title  = {AMRfold: Structure-informed mining of antimicrobial resistance
+            determinants in Neisseria gonorrhoeae using proteome-wide
+            FoldSeek search},
+  author = {Pranavathiyani, Gnanasekar},
+  year   = {2026},
+  url    = {https://github.com/pranavathiyani/amrfold}
 }
 ```
 
-Also cite:
-- FoldSeek: van Kempen et al., *Nature Biotechnology* (2024)
-- ProstT5: Heinzinger et al., *NAR Genomics and Bioinformatics* (2024)
-- CARD: Alcock et al., *Nucleic Acids Research* (2023)
-- MEGARes: Bonin et al., *Nucleic Acids Research* (2023)
+Also cite the underlying tools:
+- FoldSeek: van Kempen et al. (2024) doi:10.1038/s41587-023-01773-0
+- ProstT5: Heinzinger et al. (2024) doi:10.1093/nargab/lqae150
+- CARD: Alcock et al. (2023) doi:10.1093/nar/gkac920
+- MEGARes: Bonin et al. (2023) doi:10.1093/nar/gkac1047
 
 ---
 
@@ -160,5 +159,3 @@ Also cite:
 Assistant Professor (Research), Division of Bioinformatics  
 SASTRA Deemed University, Thanjavur, India  
 ORCID: [0000-0003-4854-8238](https://orcid.org/0000-0003-4854-8238)
-
-Part of the **AMR Atlas** ecosystem: AMRscape · AMRfold · AMRnetwork · AMRbinder · ARKbase

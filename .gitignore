@@ -1,39 +1,33 @@
-# Python
-__pycache__/
-*.py[cod]
-.env
-venv/
-.venv/
-
-# Data — never commit
+# Data (large files, not committed)
 data/
-*.cif
-*.pdb
-*.mmcif
-*.bcif
-*.parquet
-*.h5
-card-data*
+*.tar
 *.tar.bz2
 *.tar.gz
+*.fasta
+*.tsv.gz
 
-# Foldseek work
-precompute/foldseek_work/
-precompute/*.tsv
-precompute/results*
+# Conda/pip
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
 
-# Secrets
-.env
-*.key
+# Tool binaries (installed in Colab)
+foldseek/
+mmseqs/
+diamond
+diamond-linux64.tar.gz
+foldseek-linux-gpu.tar.gz
+mmseqs-linux-avx2.tar.gz
 
-# Node
-frontend/node_modules/
-frontend/dist/
+# Temp
+tmp/
+*.tmp
 
 # OS
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/
-.idea/
+# Results are generated, keep placeholder
+results/*
+!results/.gitkeep
