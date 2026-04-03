@@ -9,7 +9,7 @@
 
 ## Overview
 
-AMRfold identifies AMR-associated proteins in bacterial proteomes through **structural similarity search**, recovering candidates invisible to conventional sequence-based methods. By encoding CARD protein homolog sequences into 3Di structural tokens via ProstT5 and searching against AlphaFold Database v6 proteomes using FoldSeek, AMRfold achieves a **3.7-fold gain** over the best sequence-based approach.
+AMRfold identifies AMR-associated proteins in bacterial proteomes through **structural similarity search**, recovering candidates invisible to conventional sequence-based methods. By encoding CARD protein homolog sequences into 3Di structural tokens via ProstT5 and searching against AlphaFold Database v6 proteomes using Foldseek, AMRfold achieves a **3.8-fold gain** over the best sequence-based approach.
 
 **Case study**: *Neisseria gonorrhoeae* FA 1090 — a WHO critical priority pathogen with escalating multi-drug resistance.
 
@@ -93,7 +93,7 @@ All AFDB v6 proteomes: `https://ftp.ebi.ac.uk/pub/databases/alphafold/v6/`
 | Source | Version | License | Note |
 |--------|---------|---------|------|
 | CARD | v4.0.1 | McMaster academic | Not redistributed |
-| MEGARes | v3.0 | CC BY 4.0 | CARD + ResFinder + NDARO combined |
+| MEGARes | v3.0 | CC BY 4.0 | CARD + ResFinder + NDARO combined — `meglab.org/downloads/megares_v3.00/` |
 | AlphaFold DB | v6 | CC BY 4.0 | NEIG1 proteome UP000000535 |
 | UniProt | 2024 | CC BY 4.0 | Annotation + KW-0046 cross-validation |
 | ProstT5 | — | MIT | Via FoldSeek databases |
@@ -103,7 +103,7 @@ All AFDB v6 proteomes: `https://ftp.ebi.ac.uk/pub/databases/alphafold/v6/`
 ## Methodology Notes
 
 ### Asymmetric search (validated)
-CARD sequences are converted to 3Di tokens via ProstT5 (predicted structural alphabet). NEIG1 target DB uses real AF2 CIF structures. This asymmetry is **validated** against 10 experimental PDB structures of known AMR proteins: 100% concordance between predicted and real structure-based search results.
+CARD sequences are converted to 3Di tokens via ProstT5 (predicted structural alphabet). NEIG1 target DB uses real AF2 CIF structures. This asymmetry is **validated** against 10 experimental PDB structures of known AMR proteins: 100% concordance between predicted and real structure-based Foldseek results.
 
 ### Scope
 This pipeline covers **acquired resistance genes** (CARD protein homolog model + MEGARes). Chromosomal mutation-based resistance (e.g., *penA*, *gyrA*, *parC* in gonorrhea) requires the CARD variant model and is outside current scope.
