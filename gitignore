@@ -1,0 +1,33 @@
+# Data (large files, not committed)
+data/
+*.tar
+*.tar.bz2
+*.tar.gz
+*.fasta
+*.tsv.gz
+
+# Conda/pip
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Tool binaries (installed in Colab)
+foldseek/
+mmseqs/
+diamond
+diamond-linux64.tar.gz
+foldseek-linux-gpu.tar.gz
+mmseqs-linux-avx2.tar.gz
+
+# Temp
+tmp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results are generated, keep placeholder
+results/*
+!results/.gitkeep

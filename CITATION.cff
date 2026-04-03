@@ -1,25 +1,59 @@
 cff-version: 1.2.0
-message: "If you use AMRfold, please cite it using the metadata below."
-type: software
-title: AMRfold
+message: "If you use AMRfold, please cite it using this metadata."
+title: "AMRfold: Structure-informed AMR mining using FoldSeek + ProstT5"
+version: 2.0.0
+date-released: 2026-04-06
 abstract: >
-  Structure-informed antimicrobial resistance protein network server.
-  Pre-computes Foldseek TM-score structural similarity across WHO 2024
-  Bacterial Priority Pathogen List resistance genes, enabling cross-ARG
-  pocket comparison and drug repurposing hypothesis generation.
+  AMRfold identifies AMR-associated proteins in bacterial proteomes through
+  structural similarity search, recovering cryptic resistance candidates
+  invisible to sequence-based methods. Applied to Neisseria gonorrhoeae FA 1090,
+  AMRfold achieves 3.7x gain over DIAMOND BLASTp, identifying 299 structural
+  hits (14.2% proteome) with 91% below 30% sequence identity.
 authors:
-  - family-names: Pranavathiyani
-    given-names: Gnanasekar
-    affiliation: "Division of Bioinformatics, SASTRA Deemed University"
-repository-code: "https://github.com/pranavathiyani/amrfold"
+  - family-names: "Gnanasekar"
+    given-names: "Pranavathiyani"
+    orcid: "https://orcid.org/0000-0003-4854-8238"
+    affiliation: "SASTRA Deemed University, Thanjavur, India"
+    email: "pranavathiyani@scbt.sastra.edu"
 license: MIT
-version: "0.1.0"
-date-released: "2026-03-17"
+repository-code: "https://github.com/pranavathiyani/amrfold"
 keywords:
   - antimicrobial resistance
   - structural bioinformatics
-  - ESKAPE pathogens
-  - Foldseek
-  - WHO priority pathogens
-  - protein structure
-  - drug repurposing
+  - FoldSeek
+  - ProstT5
+  - Neisseria gonorrhoeae
+  - protein structure search
+references:
+  - type: article
+    title: "Fast and accurate protein structure search with Foldseek"
+    authors:
+      - family-names: "van Kempen"
+        given-names: "Michel"
+    journal: "Nature Biotechnology"
+    year: 2024
+    doi: "10.1038/s41587-023-01773-0"
+  - type: article
+    title: "Bilingual language model for protein sequence and structure"
+    authors:
+      - family-names: "Heinzinger"
+        given-names: "Michael"
+    journal: "NAR Genomics and Bioinformatics"
+    year: 2024
+    doi: "10.1093/nargab/lqae150"
+  - type: article
+    title: "CARD 2023: expanded curation, support for machine learning"
+    authors:
+      - family-names: "Alcock"
+        given-names: "Brian"
+    journal: "Nucleic Acids Research"
+    year: 2023
+    doi: "10.1093/nar/gkac920"
+  - type: article
+    title: "MEGARes and AMR++, v3.0"
+    authors:
+      - family-names: "Bonin"
+        given-names: "Nathalie"
+    journal: "Nucleic Acids Research"
+    year: 2023
+    doi: "10.1093/nar/gkac1047"
