@@ -3,8 +3,6 @@
 **Structure-informed antimicrobial resistance gene mining using FoldSeek + ProstT5**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
-
 ---
 
 ## Overview
@@ -20,21 +18,22 @@ AMRfold identifies AMR-associated proteins in bacterial proteomes through **stru
 | Metric | Value |
 |--------|-------|
 | NEIG1 proteome coverage | 2,106 proteins |
-| AMR structural hits (strict filters) | **299 (14.2%)** |
-| Cryptic hits (<30% identity) | **272 (91.0%)** |
-| High-confidence AF2 models (pLDDT >70) | 296/299 (99%) |
-| Priority drug targets (no human homolog) | ~120 |
-| PDB real-structure concordance | **100%** |
+| AMR structural hits (strict filters) | **308 (14.6%)** |
+| Cryptic hits (<30% identity) | **281 (91.2%)** |
+| High-confidence AF2 models (pLDDT >70) | 305/308 (99%) |
+| Priority drug targets (no human homolog) | 180 (58.4%) |
+| Exclusive vs all comparator methods | 159 (51.6%) |
+| PDB structural concordance | **100%** (real structure search) |
 
-### Four-Method Comparison
+### Four-Method Comparison (verified, seed=42)
 
-| Method | Hits | % Proteome | Gain vs FoldSeek |
+| Method | Hits | % Proteome | Gain vs Foldseek |
 |--------|------|-----------|-----------------|
-| MMseqs2 (sequence) | 71 | 3.4% | 4.2x fewer |
-| DIAMOND BLASTp | 81 | 3.8% | 3.7x fewer |
-| ESM2 pLM (cosine ≥0.85) | 120 | 5.7% | 2.5x fewer |
-| **FoldSeek + ProstT5** | **299** | **14.2%** | — |
-| PDB validation (10 templates) | — | — | 100% concordance |
+| MMseqs2 (sequence) | 84 | 4.0% | 3.7x fewer |
+| DIAMOND BLASTp | 81 | 3.8% | 3.8x fewer |
+| ESM2 pLM (cosine ≥0.85) | 250 | 11.9% | 1.2x fewer |
+| **Foldseek + ProstT5** | **308** | **14.6%** | — |
+| PDB validation | 100% | concordance | real structure search |
 
 ---
 
@@ -69,7 +68,7 @@ NEIG1 AFDB v6 (2,106 CIF structures)
 
 ### Run
 
-1. Open `notebooks/AMRfold_Complete_v2.ipynb` in Google Colab
+1. Open `notebooks/AMRfold_Complete_v2.2.ipynb` in Google Colab
 2. Set Runtime → Change runtime type → **T4 GPU**
 3. Run all cells sequentially (Ctrl+F9)
 4. Download outputs from Cell 16
