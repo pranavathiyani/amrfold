@@ -193,7 +193,7 @@ amrfold/
 
 If you use AMRfold, please cite:
 
-> Gnanasekar P. (2026) Structure-informed proteome-wide mining of antimicrobial resistance determinants in *Neisseria gonorrhoeae* using structural similarity search. *BGRS/SB-2026 Conference Proceedings*. doi:10.18699/bgrs2026-[assigned]
+> Gnanasekar Pranavathiyani (2026) Structure-informed proteome-wide mining of antimicrobial resistance determinants in *Neisseria gonorrhoeae* using structural similarity search. <!-- *BGRS/SB-2026 Conference Proceedings*. doi:10.18699/bgrs2026-[assigned] -->
 
 ### Key dependencies to cite:
 
