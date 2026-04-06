@@ -1,0 +1,82 @@
+{
+  "tool": "AMRfold v3.0",
+  "run_date": "2026-04-06T17:24:21.916632",
+  "run_complete": "2026-04-06T18:00:40.077916",
+  "random_seed": 142857,
+  "card_version": "4.0.1",
+  "card_accessed": "2026-04-06T17:24:31.715138",
+  "swissprot_amr_bacteria_count": 2283,
+  "swissprot_accessed": "2026-04-06T17:24:31.715188",
+  "afdb_version": "v6",
+  "afdb_accessed": "2026-04-06T17:24:31.715222",
+  "amrfinderplus_db_date": "unknown",
+  "tool_versions": {
+    "foldseek": "8dc75c74ad0eddab73cfd905963d13bf74dc012b",
+    "mmseqs": "d45e0c44404715475da3e1f06df6529d4c83e49e",
+    "diamond": "diamond version 2.1.8",
+    "blast+": "/bin/sh: 1: blastp: not found",
+    "hmmer": "/bin/sh: 1: hmmscan: not found",
+    "amrfinderplus": "/content/amrfinder: /lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.32' not found (required by /content/amrfinder)"
+  },
+  "esm2_model": "facebook/esm2_t33_650M_UR50D",
+  "n_card_sequences": 6052,
+  "n_swissprot_sequences": 2283,
+  "n_combined_nr": 2226,
+  "cluster_identity": 0.9,
+  "cluster_stats": {},
+  "organism": "Neisseria gonorrhoeae FA 1090",
+  "uniprot_proteome": "UP000000535",
+  "n_structures": 2106,
+  "filters": {
+    "evalue": 1e-05,
+    "qcov_min": 0.5,
+    "tcov_min": 0.3,
+    "pident_cryptic": 30
+  },
+  "esm2_null_distribution": "beta",
+  "esm2_null_mean": 0.9232273697853088,
+  "esm2_null_std": 0.035156458616256714,
+  "esm2_threshold": 0.992597099696046,
+  "esm2_pvalue": 1e-05,
+  "esm2_silhouette": -0.137,
+  "pdb_validation": {
+    "n_templates": 25,
+    "concordance_A_pct": 70.7,
+    "tmscore_mean": 0.804,
+    "tmscore_median": 0.894,
+    "lddt_mean": 0.698,
+    "prob_mean": 1.0,
+    "prob_gt09": 374
+  },
+  "results": {
+    "foldseek": 412,
+    "mmseqs2": 145,
+    "diamond": 130,
+    "esm2": 34,
+    "amrfinderplus_full": 108,
+    "amrfinderplus_all": 108,
+    "cryptic": 346,
+    "high_plddt_70": 402,
+    "high_plddt_90": 386,
+    "no_human_homolog": 225,
+    "exclusive_vs_seq": 267,
+    "exclusive_vs_4method": 263,
+    "exclusive_vs_5method": 263,
+    "multidomain_proteins": 2,
+    "uniprot_amr_keyword": 3,
+    "pdb_concordance_A_pct": 70.7,
+    "pdb_concordance_B_pct": 0.0
+  },
+  "runtimes_seconds": {
+    "foldseek": null,
+    "amrfinderplus": null
+  },
+  "limitations": [
+    "ProstT5 asymmetric search: predicted 3Di (query) vs real AF2 3Di (target) \u2014 validated vs 25 PDB structures",
+    "Acquired resistance genes only \u2014 chromosomal point mutations (penA, gyrA, parC) require CARD variant model",
+    "ESM2 threshold statistically calibrated from NEIG1-NEIG1 null distribution (p=1e-5), not e-value",
+    "KEGG mapping partial \u2014 only UniProt gene-name-resolved proteins with NGO KEGG entries",
+    "AMRFinderPlus run without --organism flag \u2014 consistent with acquired-gene-only scope",
+    "Coverage filter tcov>=0.3 is minimum detectability threshold \u2014 see coverage-identity tier analysis"
+  ]
+}

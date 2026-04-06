@@ -1,0 +1,3184 @@
+{
+  "Q5F4X8": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F8L2": [
+    [
+      "ngo03440",
+      "Homologous recombination"
+    ]
+  ],
+  "Q5F9G8": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5FA40": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F9J0": [
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F5W0": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F7E0": [
+    [
+      "ngo00340",
+      "Histidine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5FAD3": [
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F815": [
+    [
+      "ngo00540",
+      "Lipopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F668": [
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ],
+    [
+      "ngo02024",
+      "Quorum sensing"
+    ]
+  ],
+  "Q5F7X4": [
+    [
+      "ngo00230",
+      "Purine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F938": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F577": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F9G0": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00330",
+      "Arginine and proline metabolism"
+    ],
+    [
+      "ngo00480",
+      "Glutathione metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F9F8": [
+    [
+      "ngo00410",
+      "beta-Alanine metabolism"
+    ],
+    [
+      "ngo00770",
+      "Pantothenate and CoA biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5D6": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F560": [
+    [
+      "ngo00030",
+      "Pentose phosphate pathway"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F9X0": [
+    [
+      "ngo00790",
+      "Folate biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5T4": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5F6N4": [
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo00401",
+      "Novobiocin biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F8X4": [
+    [
+      "ngo00730",
+      "Thiamine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ],
+    [
+      "ngo04122",
+      "Sulfur relay system"
+    ]
+  ],
+  "Q5F7M1": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00920",
+      "Sulfur metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ]
+  ],
+  "Q5FA34": [
+    [
+      "ngo00010",
+      "Glycolysis / Gluconeogenesis"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo00680",
+      "Methane metabolism"
+    ],
+    [
+      "ngo00720",
+      "Other carbon fixation pathways"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F876": [
+    [
+      "ngo00010",
+      "Glycolysis / Gluconeogenesis"
+    ],
+    [
+      "ngo00020",
+      "Citrate cycle (TCA cycle)"
+    ],
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00280",
+      "Valine, leucine and isoleucine degradation"
+    ],
+    [
+      "ngo00310",
+      "Lysine degradation"
+    ],
+    [
+      "ngo00380",
+      "Tryptophan metabolism"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo00630",
+      "Glyoxylate and dicarboxylate metabolism"
+    ],
+    [
+      "ngo00640",
+      "Propanoate metabolism"
+    ],
+    [
+      "ngo00670",
+      "One carbon pool by folate"
+    ],
+    [
+      "ngo00785",
+      "Lipoic acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F6K4": [
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo00552",
+      "Teichoic acid biosynthesis"
+    ]
+  ],
+  "Q5F7G9": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F590": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F870": [
+    [
+      "ngo00020",
+      "Citrate cycle (TCA cycle)"
+    ],
+    [
+      "ngo00190",
+      "Oxidative phosphorylation"
+    ],
+    [
+      "ngo00650",
+      "Butanoate metabolism"
+    ],
+    [
+      "ngo00720",
+      "Other carbon fixation pathways"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F523": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5FA43": [
+    [
+      "ngo03060",
+      "Protein export"
+    ],
+    [
+      "ngo03070",
+      "Bacterial secretion system"
+    ]
+  ],
+  "Q5FAF1": [
+    [
+      "ngo00630",
+      "Glyoxylate and dicarboxylate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5FAJ2": [
+    [
+      "ngo02020",
+      "Two-component system"
+    ]
+  ],
+  "Q5F745": [
+    [
+      "ngo00790",
+      "Folate biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5X4": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F908": [
+    [
+      "ngo00680",
+      "Methane metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F6I6": [
+    [
+      "ngo00250",
+      "Alanine, aspartate and glutamate metabolism"
+    ],
+    [
+      "ngo00760",
+      "Nicotinate and nicotinamide metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F501": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F898": [
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ]
+  ],
+  "Q5F5L8": [
+    [
+      "ngo00330",
+      "Arginine and proline metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F878": [
+    [
+      "ngo00020",
+      "Citrate cycle (TCA cycle)"
+    ],
+    [
+      "ngo00640",
+      "Propanoate metabolism"
+    ],
+    [
+      "ngo00660",
+      "C5-Branched dibasic acid metabolism"
+    ],
+    [
+      "ngo00720",
+      "Other carbon fixation pathways"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5FAE3": [
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo00552",
+      "Teichoic acid biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F969": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00071",
+      "Fatty acid degradation"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ],
+    [
+      "ngo02024",
+      "Quorum sensing"
+    ],
+    [
+      "ngo04146",
+      "Peroxisome"
+    ]
+  ],
+  "Q5F4Z6": [
+    [
+      "ngo00190",
+      "Oxidative phosphorylation"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F7G5": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00071",
+      "Fatty acid degradation"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ],
+    [
+      "ngo02024",
+      "Quorum sensing"
+    ],
+    [
+      "ngo04146",
+      "Peroxisome"
+    ]
+  ],
+  "Q5F8Y9": [
+    [
+      "ngo00410",
+      "beta-Alanine metabolism"
+    ],
+    [
+      "ngo00770",
+      "Pantothenate and CoA biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5F5": [
+    [
+      "ngo00240",
+      "Pyrimidine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01232",
+      "Nucleotide metabolism"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F6K9": [
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01501",
+      "beta-Lactam resistance"
+    ]
+  ],
+  "Q5FA31": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F9Y9": [
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F6P1": [
+    [
+      "ngo00750",
+      "Vitamin B6 metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F6L2": [
+    [
+      "ngo00300",
+      "Lysine biosynthesis"
+    ],
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01502",
+      "Vancomycin resistance"
+    ]
+  ],
+  "Q5FA75": [
+    [
+      "ngo00540",
+      "Lipopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F8I0": [
+    [
+      "ngo00785",
+      "Lipoic acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5A8": [
+    [
+      "ngo00564",
+      "Glycerophospholipid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F6R7": [
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F4Y0": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5C8": [
+    [
+      "ngo00770",
+      "Pantothenate and CoA biosynthesis"
+    ],
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F642": [
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5W6": [
+    [
+      "ngo00540",
+      "Lipopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F6R6": [
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F889": [
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F9K7": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00450",
+      "Selenocompound metabolism"
+    ],
+    [
+      "ngo00920",
+      "Sulfur metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F9F1": [
+    [
+      "ngo00920",
+      "Sulfur metabolism"
+    ],
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F732": [
+    [
+      "ngo00240",
+      "Pyrimidine metabolism"
+    ],
+    [
+      "ngo00670",
+      "One carbon pool by folate"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01232",
+      "Nucleotide metabolism"
+    ],
+    [
+      "ngo04981",
+      "Folate transport and metabolism"
+    ]
+  ],
+  "Q5F8K2": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5FAC1": [
+    [
+      "ngo00540",
+      "Lipopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5FAG2": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F9F3": [
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5FAH2": [
+    [
+      "ngo00220",
+      "Arginine biosynthesis"
+    ],
+    [
+      "ngo00240",
+      "Pyrimidine metabolism"
+    ],
+    [
+      "ngo00250",
+      "Alanine, aspartate and glutamate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F9K8": [
+    [
+      "ngo00860",
+      "Porphyrin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5M3": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo00521",
+      "Streptomycin biosynthesis"
+    ],
+    [
+      "ngo00523",
+      "Polyketide sugar unit biosynthesis"
+    ],
+    [
+      "ngo00525",
+      "Acarbose and validamycin biosynthesis"
+    ],
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F6H5": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F8B3": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F829": [
+    [
+      "ngo00900",
+      "Terpenoid backbone biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F6S9": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00680",
+      "Methane metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F8F5": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo00640",
+      "Propanoate metabolism"
+    ],
+    [
+      "ngo00720",
+      "Other carbon fixation pathways"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ]
+  ],
+  "Q5F8M0": [
+    [
+      "ngo02020",
+      "Two-component system"
+    ]
+  ],
+  "Q5F9L9": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F7G1": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00480",
+      "Glutathione metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F8N0": [
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5FA14": [
+    [
+      "ngo00040",
+      "Pentose and glucuronate interconversions"
+    ],
+    [
+      "ngo00052",
+      "Galactose metabolism"
+    ],
+    [
+      "ngo00500",
+      "Starch and sucrose metabolism"
+    ],
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F6S7": [
+    [
+      "ngo00760",
+      "Nicotinate and nicotinamide metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F9R9": [
+    [
+      "ngo00130",
+      "Ubiquinone and other terpenoid-quinone biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F588": [
+    [
+      "ngo00730",
+      "Thiamine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5P0": [
+    [
+      "ngo00240",
+      "Pyrimidine metabolism"
+    ],
+    [
+      "ngo00250",
+      "Alanine, aspartate and glutamate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5D5": [
+    [
+      "ngo03410",
+      "Base excision repair"
+    ]
+  ],
+  "Q5FAH6": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo00640",
+      "Propanoate metabolism"
+    ],
+    [
+      "ngo00720",
+      "Other carbon fixation pathways"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ]
+  ],
+  "Q5F6L0": [
+    [
+      "ngo00300",
+      "Lysine biosynthesis"
+    ],
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F9U4": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F5U2": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5F7J0": [
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F604": [
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F5K2": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F5C2": [
+    [
+      "ngo00730",
+      "Thiamine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5FAB9": [
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F8G2": [
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F9T2": [
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5E9": [
+    [
+      "ngo00020",
+      "Citrate cycle (TCA cycle)"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F5M5": [
+    [
+      "ngo00052",
+      "Galactose metabolism"
+    ],
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F5Q0": [
+    [
+      "ngo02020",
+      "Two-component system"
+    ]
+  ],
+  "Q5F7W8": [
+    [
+      "ngo00220",
+      "Arginine biosynthesis"
+    ],
+    [
+      "ngo00250",
+      "Alanine, aspartate and glutamate metabolism"
+    ],
+    [
+      "ngo00290",
+      "Valine, leucine and isoleucine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5FAF6": [
+    [
+      "ngo00740",
+      "Riboflavin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F842": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00261",
+      "Monobactam biosynthesis"
+    ],
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00300",
+      "Lysine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F585": [
+    [
+      "ngo00450",
+      "Selenocompound metabolism"
+    ],
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5FAE4": [
+    [
+      "ngo00290",
+      "Valine, leucine and isoleucine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F6F4": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F5W3": [
+    [
+      "ngo00540",
+      "Lipopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01503",
+      "Cationic antimicrobial peptide (CAMP) resistance"
+    ]
+  ],
+  "Q5F6G0": [
+    [
+      "ngo01501",
+      "beta-Lactam resistance"
+    ]
+  ],
+  "Q5FAH9": [
+    [
+      "ngo00860",
+      "Porphyrin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F726": [
+    [
+      "ngo01501",
+      "beta-Lactam resistance"
+    ],
+    [
+      "ngo02024",
+      "Quorum sensing"
+    ]
+  ],
+  "Q5F8M7": [
+    [
+      "ngo03030",
+      "DNA replication"
+    ],
+    [
+      "ngo03430",
+      "Mismatch repair"
+    ],
+    [
+      "ngo03440",
+      "Homologous recombination"
+    ]
+  ],
+  "Q5F8G7": [
+    [
+      "ngo00230",
+      "Purine metabolism"
+    ],
+    [
+      "ngo00261",
+      "Monobactam biosynthesis"
+    ],
+    [
+      "ngo00450",
+      "Selenocompound metabolism"
+    ],
+    [
+      "ngo00920",
+      "Sulfur metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01320",
+      "Sulfur cycle"
+    ]
+  ],
+  "Q5FA22": [
+    [
+      "ngo00340",
+      "Histidine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F650": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5FA23": [
+    [
+      "ngo00340",
+      "Histidine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F788": [
+    [
+      "ngo00470",
+      "D-Amino acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01502",
+      "Vancomycin resistance"
+    ]
+  ],
+  "Q5F940": [
+    [
+      "ngo00010",
+      "Glycolysis / Gluconeogenesis"
+    ],
+    [
+      "ngo00020",
+      "Citrate cycle (TCA cycle)"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo00785",
+      "Lipoic acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ]
+  ],
+  "Q5F6M0": [
+    [
+      "ngo00470",
+      "D-Amino acid metabolism"
+    ],
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01502",
+      "Vancomycin resistance"
+    ]
+  ],
+  "Q5F847": [
+    [
+      "ngo00330",
+      "Arginine and proline metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F5U4": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5F634": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F9Y5": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo00640",
+      "Propanoate metabolism"
+    ],
+    [
+      "ngo00720",
+      "Other carbon fixation pathways"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ]
+  ],
+  "Q5F7W4": [
+    [
+      "ngo00630",
+      "Glyoxylate and dicarboxylate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F7D5": [
+    [
+      "ngo00280",
+      "Valine, leucine and isoleucine degradation"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5FAF5": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F669": [
+    [
+      "ngo00670",
+      "One carbon pool by folate"
+    ],
+    [
+      "ngo00790",
+      "Folate biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ],
+    [
+      "ngo04981",
+      "Folate transport and metabolism"
+    ]
+  ],
+  "Q5FAJ3": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F778": [
+    [
+      "ngo00770",
+      "Pantothenate and CoA biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F691": [
+    [
+      "ngo00770",
+      "Pantothenate and CoA biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F752": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F562": [
+    [
+      "ngo00130",
+      "Ubiquinone and other terpenoid-quinone biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F609": [
+    [
+      "ngo03420",
+      "Nucleotide excision repair"
+    ],
+    [
+      "ngo03430",
+      "Mismatch repair"
+    ]
+  ],
+  "Q5F8D8": [
+    [
+      "ngo00220",
+      "Arginine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5FA17": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F8L8": [
+    [
+      "ngo00790",
+      "Folate biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F5K6": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F5J1": [
+    [
+      "ngo00760",
+      "Nicotinate and nicotinamide metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F9Y6": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5FA94": [
+    [
+      "ngo00520",
+      "Amino sugar and nucleotide sugar metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01501",
+      "beta-Lactam resistance"
+    ]
+  ],
+  "Q5FA91": [
+    [
+      "ngo01503",
+      "Cationic antimicrobial peptide (CAMP) resistance"
+    ],
+    [
+      "ngo02020",
+      "Two-component system"
+    ]
+  ],
+  "Q5F5I6": [
+    [
+      "ngo00230",
+      "Purine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ]
+  ],
+  "Q5F8L9": [
+    [
+      "ngo02020",
+      "Two-component system"
+    ]
+  ],
+  "Q5F6L6": [
+    [
+      "ngo00470",
+      "D-Amino acid metabolism"
+    ],
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F5R1": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5F5T2": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5FA83": [
+    [
+      "ngo00860",
+      "Porphyrin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F9M3": [
+    [
+      "ngo03440",
+      "Homologous recombination"
+    ]
+  ],
+  "Q5F7A0": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00680",
+      "Methane metabolism"
+    ],
+    [
+      "ngo00750",
+      "Vitamin B6 metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F875": [
+    [
+      "ngo00020",
+      "Citrate cycle (TCA cycle)"
+    ],
+    [
+      "ngo00310",
+      "Lysine degradation"
+    ],
+    [
+      "ngo00380",
+      "Tryptophan metabolism"
+    ],
+    [
+      "ngo00785",
+      "Lipoic acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ]
+  ],
+  "Q5F9M1": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ],
+    [
+      "ngo02040",
+      "Flagellar assembly"
+    ]
+  ],
+  "A0A0H4IS08": [
+    [
+      "ngo00061",
+      "Fatty acid biosynthesis"
+    ],
+    [
+      "ngo00780",
+      "Biotin metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01212",
+      "Fatty acid metabolism"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F5V1": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5F858": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00920",
+      "Sulfur metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F9M8": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F503": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F6X0": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00543",
+      "Exopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo00920",
+      "Sulfur metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F9D9": [
+    [
+      "ngo00300",
+      "Lysine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F8E0": [
+    [
+      "ngo00340",
+      "Histidine metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F6L8": [
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01502",
+      "Vancomycin resistance"
+    ]
+  ],
+  "Q5F5K9": [
+    [
+      "ngo00540",
+      "Lipopolysaccharide biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F8V2": [
+    [
+      "ngo00750",
+      "Vitamin B6 metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ]
+  ],
+  "Q5F775": [
+    [
+      "ngo00230",
+      "Purine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01232",
+      "Nucleotide metabolism"
+    ]
+  ],
+  "Q5F5S8": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5FAK7": [
+    [
+      "ngo00220",
+      "Arginine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F758": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00350",
+      "Tyrosine metabolism"
+    ],
+    [
+      "ngo00360",
+      "Phenylalanine metabolism"
+    ],
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo00401",
+      "Novobiocin biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F5K3": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F5R6": [
+    [
+      "ngo03020",
+      "RNA polymerase"
+    ]
+  ],
+  "Q5F7C4": [
+    [
+      "ngo00970",
+      "Aminoacyl-tRNA biosynthesis"
+    ]
+  ],
+  "Q5F6V6": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5FAE8": [
+    [
+      "ngo03030",
+      "DNA replication"
+    ],
+    [
+      "ngo03430",
+      "Mismatch repair"
+    ],
+    [
+      "ngo03440",
+      "Homologous recombination"
+    ]
+  ],
+  "Q5F7H1": [
+    [
+      "ngo03420",
+      "Nucleotide excision repair"
+    ]
+  ],
+  "Q5F8W4": [
+    [
+      "ngo00220",
+      "Arginine biosynthesis"
+    ],
+    [
+      "ngo00300",
+      "Lysine biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F7U1": [
+    [
+      "ngo00240",
+      "Pyrimidine metabolism"
+    ],
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F8L4": [
+    [
+      "ngo00030",
+      "Pentose phosphate pathway"
+    ],
+    [
+      "ngo00040",
+      "Pentose and glucuronate interconversions"
+    ],
+    [
+      "ngo00710",
+      "Carbon fixation by Calvin cycle"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F596": [
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F725": [
+    [
+      "ngo01501",
+      "beta-Lactam resistance"
+    ],
+    [
+      "ngo01503",
+      "Cationic antimicrobial peptide (CAMP) resistance"
+    ]
+  ],
+  "Q5FAJ1": [
+    [
+      "ngo03030",
+      "DNA replication"
+    ],
+    [
+      "ngo03430",
+      "Mismatch repair"
+    ],
+    [
+      "ngo03440",
+      "Homologous recombination"
+    ]
+  ],
+  "Q5F5L0": [
+    [
+      "ngo00030",
+      "Pentose phosphate pathway"
+    ],
+    [
+      "ngo00480",
+      "Glutathione metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F5W1": [
+    [
+      "ngo00360",
+      "Phenylalanine metabolism"
+    ],
+    [
+      "ngo00470",
+      "D-Amino acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F566": [
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5FA44": [
+    [
+      "ngo02024",
+      "Quorum sensing"
+    ],
+    [
+      "ngo03060",
+      "Protein export"
+    ],
+    [
+      "ngo03070",
+      "Bacterial secretion system"
+    ]
+  ],
+  "Q5F751": [
+    [
+      "ngo00620",
+      "Pyruvate metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ]
+  ],
+  "Q5F5R5": [
+    [
+      "ngo03020",
+      "RNA polymerase"
+    ]
+  ],
+  "Q5FAC7": [
+    [
+      "ngo00550",
+      "Peptidoglycan biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01501",
+      "beta-Lactam resistance"
+    ]
+  ],
+  "Q5F6F7": [
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo00999",
+      "Biosynthesis of various plant secondary metabolites"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F8K3": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F6U3": [
+    [
+      "ngo00220",
+      "Arginine biosynthesis"
+    ],
+    [
+      "ngo00250",
+      "Alanine, aspartate and glutamate metabolism"
+    ],
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo00330",
+      "Arginine and proline metabolism"
+    ],
+    [
+      "ngo00350",
+      "Tyrosine metabolism"
+    ],
+    [
+      "ngo00360",
+      "Phenylalanine metabolism"
+    ],
+    [
+      "ngo00400",
+      "Phenylalanine, tyrosine and tryptophan biosynthesis"
+    ],
+    [
+      "ngo00401",
+      "Novobiocin biosynthesis"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01210",
+      "2-Oxocarboxylic acid metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F561": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ]
+  ],
+  "Q5F5S1": [
+    [
+      "ngo03010",
+      "Ribosome"
+    ]
+  ],
+  "Q5F8C0": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00460",
+      "Cyanoamino acid metabolism"
+    ],
+    [
+      "ngo00630",
+      "Glyoxylate and dicarboxylate metabolism"
+    ],
+    [
+      "ngo00670",
+      "One carbon pool by folate"
+    ],
+    [
+      "ngo00680",
+      "Methane metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01120",
+      "Microbial metabolism in diverse environments"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ],
+    [
+      "ngo01230",
+      "Biosynthesis of amino acids"
+    ],
+    [
+      "ngo01240",
+      "Biosynthesis of cofactors"
+    ],
+    [
+      "ngo04981",
+      "Folate transport and metabolism"
+    ]
+  ],
+  "Q5F8Z0": [
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F6Z0": [
+    [
+      "ngo02010",
+      "ABC transporters"
+    ]
+  ],
+  "Q5F6J3": [
+    [
+      "ngo03410",
+      "Base excision repair"
+    ]
+  ],
+  "Q5F761": [
+    [
+      "ngo00260",
+      "Glycine, serine and threonine metabolism"
+    ],
+    [
+      "ngo00630",
+      "Glyoxylate and dicarboxylate metabolism"
+    ],
+    [
+      "ngo00670",
+      "One carbon pool by folate"
+    ],
+    [
+      "ngo00785",
+      "Lipoic acid metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01200",
+      "Carbon metabolism"
+    ]
+  ],
+  "Q5F5D8": [
+    [
+      "ngo00270",
+      "Cysteine and methionine metabolism"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ]
+  ],
+  "Q5F5M4": [
+    [
+      "ngo00521",
+      "Streptomycin biosynthesis"
+    ],
+    [
+      "ngo00523",
+      "Polyketide sugar unit biosynthesis"
+    ],
+    [
+      "ngo00525",
+      "Acarbose and validamycin biosynthesis"
+    ],
+    [
+      "ngo00541",
+      "Biosynthesis of various nucleotide sugars"
+    ],
+    [
+      "ngo01100",
+      "Metabolic pathways"
+    ],
+    [
+      "ngo01110",
+      "Biosynthesis of secondary metabolites"
+    ],
+    [
+      "ngo01250",
+      "Biosynthesis of nucleotide sugars"
+    ]
+  ],
+  "Q5F6W5": [
+    [
+      "ngo03018",
+      "RNA degradation"
+    ]
+  ]
+}
