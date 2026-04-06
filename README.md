@@ -86,32 +86,38 @@ jupyter notebook AMRfold_Complete_v3.2.ipynb
 
 ```
 amrfold/
-├── AMRfold_Complete_v3.2.ipynb   # Main pipeline notebook
+├── notebooks/
+│   ├── AMRfold_Complete_v3.2.ipynb   # Main pipeline notebook
+│   └── archive/                       # Previous versions (v2.1–v3.1)
 ├── results/
-│   ├── neig1_amr_best.tsv        # Best hit per NEIG1 protein (412 rows)
-│   ├── neig1_amr_all.tsv         # All hits with domain analysis
-│   ├── go_enrichment.tsv         # GO enrichment results (28 significant)
-│   ├── kegg_completeness.tsv     # KEGG pathway completeness
-│   ├── umap_embedding.tsv        # UMAP coordinates (2,638 points)
-│   ├── amrfinder_out.tsv         # AMRFinderPlus HMM hits
-│   ├── provenance.json           # Complete run metadata
-│   └── figures/                  # 15 publication figures (A–O)
-│       ├── A_method_comparison.png
-│       ├── B_venn_foldseek_diamond.png
-│       ├── C_sequence_identity.png
-│       ├── D_plddt_distribution.png
-│       ├── E_gene_families.png
-│       ├── F_mechanisms.png
-│       ├── G_drug_targets.png
-│       ├── H_evalue_distribution.png
-│       ├── I_kegg_pathways.png
-│       ├── J_esm2_null_distribution.png
-│       ├── K_coverage_identity_heatmap.png
-│       ├── L_umap_amr_space.png
-│       ├── M_pdb_tmscore.png
-│       ├── N_go_enrichment.png
-│       └── O_kegg_completeness.png
-└── README.md
+│   ├── neig1_amr_best.tsv             # Best hit per NEIG1 protein (412 rows)
+│   ├── neig1_amr_all_domains.tsv      # All hits with domain analysis
+│   ├── amrfinder_out.tsv              # AMRFinderPlus HMM hits (108)
+│   ├── cluster_membership.tsv         # Query DB cluster membership
+│   ├── umap_embedding.tsv             # UMAP coordinates (2,638 points)
+│   ├── kegg_pathways.json             # KEGG pathway mappings
+│   ├── provenance.json                # Complete run metadata + versions
+│   ├── uniprot_cache.json             # UniProt annotation cache
+│   ├── amrfold_report.html            # Full interactive HTML report
+│   ├── amrfold_combined_9panel.png    # Combined 9-panel figure
+│   ├── A_method_comparison.png        # Five-method bar chart
+│   ├── B_venn_foldseek_diamond.png    # Foldseek vs DIAMOND Venn
+│   ├── C_sequence_identity.png        # Identity distribution
+│   ├── D_plddt_distribution.png       # AlphaFold2 confidence
+│   ├── E_gene_families.png            # Top AMR gene families
+│   ├── F_mechanisms.png               # Resistance mechanisms pie
+│   ├── G_drug_targets.png             # Priority targets bar
+│   ├── H_evalue_distribution.png      # E-value distribution
+│   ├── I_kegg_pathways.png            # Top KEGG pathways
+│   ├── J_esm2_null_distribution.png   # ESM2 null calibration
+│   ├── K_coverage_identity_heatmap.png # Coverage-identity matrix
+│   ├── L_umap_amr_space.png           # UMAP 3-panel
+│   ├── M_pdb_tmscore.png              # PDB TM-score distribution
+│   ├── N_go_enrichment.png            # GO enrichment
+│   ├── O_kegg_completeness.png        # KEGG pathway completeness
+│   └── P_upset_method_overlap.png     # UpSet plot — all intersections
+├── README.md
+└── CITATION.cff
 ```
 
 ---
@@ -187,7 +193,7 @@ amrfold/
 
 If you use AMRfold, please cite:
 
-> Gnanasekar Pranavathiyani. (2026) Structure-informed proteome-wide mining of antimicrobial resistance determinants in *Neisseria gonorrhoeae* using structural similarity search. <!-- *BGRS/SB-2026 Conference Proceedings*. doi:10.18699/bgrs2026-[assigned] -->
+> Gnanasekar P. (2026) Structure-informed proteome-wide mining of antimicrobial resistance determinants in *Neisseria gonorrhoeae* using structural similarity search. *BGRS/SB-2026 Conference Proceedings*. doi:10.18699/bgrs2026-[assigned]
 
 ### Key dependencies to cite:
 
