@@ -29,5 +29,3 @@ tmp/
 Thumbs.db
 
 # Results are generated, keep placeholder
-results/*
-!results/.gitkeep
